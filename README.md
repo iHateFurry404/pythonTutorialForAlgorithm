@@ -30,3 +30,6 @@
 [객체지향의 길, class](./Beginner/class.py)
 
 [상속, class의 유산](./Beginner/classInClass.py)
+
+## 알고리즘
+[진짜 기초의 기초 알고리즘, 브루트 포스](./Algorithm/bruteForce.py)

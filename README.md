@@ -1,1 +1,32 @@
-# pythonTutorialForAlgorithm
+# 알고리즘을 위한 파이썬
+
+이 레포지토리는 백준 문제를 풀기위한 파이썬 튜토리얼입니다. 이 레포지토리는 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)에 따릅니다.
+
+## 기초
+[기초의 기초, Hello World 출력하기]()
+
+[출력하는 함수, print 함수와 사칙 연산]()
+
+[변수, 그것과 그들의 형태]()
+
+[배열, 변수들의 집합소]()
+
+[통제하는 문, if문 그리고 else와 elif문과 조건문]()
+
+[반복문의 기초, for문]()
+
+[또다른 반복문, while문, 그리고 continue와 break]()
+
+[함수, def 함수가하는 함수의 정의]()
+
+[재귀 함수, 자신이 부르는 자신]()
+
+[파일, 모든것]()
+
+[예외처리, except, try]()
+
+[모듈, 남의 밥상에 숟가락 끼우기]()
+
+[객체지향의 길, class]()
+
+[상속, class의 유산]()

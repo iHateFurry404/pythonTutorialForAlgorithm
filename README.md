@@ -5,7 +5,7 @@
 ## 기초
 [기초의 기초, Hello World 출력하기](./Beginner/HelloWorld.py)
 
-[출력하는 함수, print 함수와 사칙 연산](./Beginner/printAndFfAO.py)
+[출력하는 함수, print 함수와 사칙 연산, 그리고 input](./Beginner/printAndFfAOAndInput.py)
 
 [변수, 그것과 그들의 형태](./Beginner/variables.py)
 

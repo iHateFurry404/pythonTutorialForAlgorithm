@@ -5,4 +5,4 @@ from time import time # 특정 모듈만 뽑고싶다면 이렇게 쓴다. time�
 acos1 = math.acos(1) # 이렇게 길게 써야한다.
 print(time())
 
-# 앞으로 pytorch, tenserflow, numpy, panda같은 라이브러리 튜토리얼도 만들 예정이다ㅏ.
+# 앞으로 pytorch, tenserflow, numpy, panda같은 라이브러리 튜토리얼도 만들 예정이다.

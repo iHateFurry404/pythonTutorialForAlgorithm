@@ -2,6 +2,8 @@
 
 이 레포지토리는 백준 문제를 풀기위한 파이썬 튜토리얼입니다. 이 레포지토리는 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)에 따릅니다.
 
+**+ 커밋 메시지는 신경쓰지 마세요**
+
 ## 기초
 [기초의 기초, Hello World 출력하기](./Beginner/HelloWorld.py)
 

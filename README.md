@@ -5,7 +5,7 @@
 **+ 커밋 메시지는 신경쓰지 마세요**
 
 ## 기초
-**~~취소선~~처리 된것은 보류중에 있는 강의입니다.**
+**~~취소선~~처리 된것은 보류중에 있는 튜토리얼입니다. 그 튜토리얼은 [풀리퀘칸](https://github.com/iHateFurry404/pythonTutorialForAlgorithm/pulls)에서 볼수 있습니다.**
 
 [기초의 기초, Hello World 출력하기](./Beginner/HelloWorld.py)
 

@@ -35,6 +35,10 @@ elif not True: # not 옆의 조건문의 결과를 뒤집는다 예: 참 -> 거�
 elif True ^ False: # xor연산자, 둘중 하나만 참이여야지 True를 반환한다.
     print('Xor True')
 
+
+xorTest = True if True ^ True else False # 이렇게 더 간단히 쓸 수 있게 한다. 아래는 작성 방법이다. 이렇게 쓰게 된다면 더 가독성이 높아질수도 있다. + elif는 들어갈 수 없다.
+# variableName = 조건문이 참일시 들어갈 값 if 조건문 else 아닐때 들어갈 값
+
 match a: # match  뒤에는 식, 변수가 들어갈수 있으며, 여러개 넣을수 있다.
     case 32: # a의 값이 32면 아래 실행
         print('yipee')

@@ -27,6 +27,8 @@
 
 [라이브러리, 남의 밥상에 숟가락 끼우기](./Beginner/library.py)
 
+[딕셔너리?](./Beginner/dictionary.py)
+
 [객체지향의 길, class](./Beginner/class.py)
 
 [상속, class의 유산](./Beginner/classInClass.py)

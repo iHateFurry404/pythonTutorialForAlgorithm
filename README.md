@@ -15,7 +15,7 @@
 
 [반복문의 기초, for문](./Beginner/for.py)
 
-[또다른 반복문, while문, 그리고 continue와 break](./Beginner/while.py)
+[또다른 반복문, while문, 그리고 break](./Beginner/while.py)
 
 [함수, def 함수가하는 함수의 정의](./Beginner/def.py)
 

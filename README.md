@@ -2,7 +2,7 @@
 
 이 레포지토리는 백준 문제를 풀기위한 파이썬 튜토리얼입니다. 이 레포지토리는 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)에 따릅니다.
 
-**+ 커밋 메시지는 신경쓰지 마세요**
+**+ 커밋 메시지는 신경쓰지 마세요 제 마음대로 쓴거입니다**
 
 ## 기초
 **~~취소선~~처리 된것은 보류중에 있는 튜토리얼입니다. 그 튜토리얼은 [풀리퀘칸](https://github.com/iHateFurry404/pythonTutorialForAlgorithm/pulls)에서 볼수 있습니다.**

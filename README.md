@@ -5,6 +5,8 @@
 **+ 커밋 메시지는 신경쓰지 마세요**
 
 ## 기초
+**~~취소선~~처리 된것은 보류중에 있는 강의입니다.**
+
 [기초의 기초, Hello World 출력하기](./Beginner/HelloWorld.py)
 
 [출력하는 함수, print 함수와 사칙 연산, 그리고 input](./Beginner/printAndFfAOAndInput.py)
@@ -23,7 +25,7 @@
 
 [재귀 함수, 자신이 부르는 자신](./Beginner/recursive.py)
 
-[파일, 모든것](./Beginner/files.py)
+~~[파일, 모든것](./Beginner/files.py)~~
 
 [예외처리, except, try](./Beginner/tryAndExcept.py)
 

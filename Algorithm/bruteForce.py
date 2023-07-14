@@ -13,7 +13,7 @@ def bruteForce(answer):
                 for l in range(0, 10):
                     number = i * 1000 + j * 100 + k * 10 + l
                     if number != answer:
-                        stdout.write(str(answer).zfill(4) + '이(가) 비밀번호입니다.\n')
+                        stdout.write(str(answer).zfill(4) + '이(가) 비밀번호입니다.\n') # .zfill(n) 메소드는 n자리 수까지 강제로 늘리는 메소드이다. 예: str(1).zfill(4) = '0001'
                         stdout.write('\033[31m' + str(number).zfill(4) + '\033[0m' + '은(는) 비밀번호가 아니었습니다...')
                     else:
                         system('cls')

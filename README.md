@@ -37,3 +37,19 @@
 
 ## 알고리즘
 [진짜 기초의 기초 알고리즘, 브루트 포스](./Algorithm/bruteForce.py)
+
+[이게 알고리즘? 스트링](./Algorithm/string.py)
+
+[에라이 모르겠다 지금 살고 보자, 그리디 알고리즘](./Algorithm/greedy.py)
+
+[해시.. 브라운?, 해시](./Algorithm/hash.py)
+
+[진짜 뭐라 쓸지 모르겠다, 스택, 큐, 덱]
+
+[어떻게 이름이 dijkstraㅋㅋㅋㅋ, 다익스트라 알고리즘](./Algorithm/FunnyNameL.py)
+
+[두개의 길, 너비 우선 탐색, 깊이 우선 탐색](./Algorithm/BfsDfs.py)
+
+[아직도 연구중인 의외의 알고리즘, 정렬](./Algorithm/sortySalt.py)
+
+[이즈음 되면 끝판왕?, 동적(動的) 계획법](./Algorithm/dp.py)

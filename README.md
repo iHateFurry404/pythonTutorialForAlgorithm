@@ -27,7 +27,7 @@
 
 ~~[파일, 모든것](./Beginner/files.py)~~
 
-[예외처리, except, try](./Beginner/tryAndExcept.py)
+[예외처리, try, except](./Beginner/tryAndExcept.py)
 
 [라이브러리, 남의 밥상에 숟가락 끼우기](./Beginner/library.py)
 

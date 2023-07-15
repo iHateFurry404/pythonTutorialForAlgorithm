@@ -44,7 +44,7 @@
 
 [해시.. 브라운?, 해시](./Algorithm/hash.py)
 
-[진짜 뭐라 쓸지 모르겠다, 스택, 큐, 덱](./Algorithm/forgotToName.py)
+[신기한 자료형, 스택, 큐, 덱](./Algorithm/forgotToName.py)
 
 [어떻게 이름이 dijkstraㅋㅋㅋㅋ, 다익스트라 알고리즘](./Algorithm/FunnyNameL.py)
 
